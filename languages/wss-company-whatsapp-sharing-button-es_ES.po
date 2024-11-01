@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WSS Company WhatsApp Sharing Button\n"
+"POT-Creation-Date: 2016-01-06 17:43-0430\n"
+"PO-Revision-Date: 2016-01-06 17:43-0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: whatsapp-share.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-admin.php:60
+msgid "Post"
+msgstr "Entrada"
+
+#: class-admin.php:61
+msgid "This is included in all post, custom post and attachments."
+msgstr ""
+"Esto lo incluye en todas las entrada, entradas y archivos adjuntos "
+"personalizados."
+
+#: class-admin.php:63
+msgid "Pages"
+msgstr "Páginas"
+
+#: class-admin.php:66
+msgid "Homepage"
+msgstr "Página principal"
+
+#: class-admin.php:69
+msgid "Top content"
+msgstr "Arriba del contenido"
+
+#: class-admin.php:72
+msgid "Bottom content"
+msgstr "Abajo del contenido"
+
+#: class-admin.php:75
+msgid "Button text"
+msgstr "Texto del botón"
+
+#: class-admin.php:78
+msgid "Button color"
+msgstr "Color del botón"
+
+#: class-admin.php:82
+msgid "Add tracking"
+msgstr "Agregar seguimiento"
+
+#: class-admin.php:83
+msgid ""
+"Activate this to add UTM data on shared URL. It does not look nice, but "
+"helps you follow the visits in Google Analytics from WhatsApp. Source: "
+"WhatsApp. Medium: Messenger."
+msgstr ""
+"Active esto para agregar datos UTM en URL compartida. No se ve muy bien, "
+"pero le ayuda a seguir las visitas de Google Analytics de WhatsApp. Fuente: "
+"WhatsApp. Medio: Messenger."
+
+#: class-admin.php:88
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: class-admin.php:93
+msgid "Using the \"shortcode\""
+msgstr "Usando el \"shortcode\""
+
+#: class-admin.php:96
+msgid ""
+"You can insert the button manually anywhere on your site using the "
+"\"shortcode\""
+msgstr ""
+"Puede insertar el botón manualmente en cualquier lugar en su sitio "
+"utilizando el \"shortcode\""
+
+#: class-admin.php:97
+msgid "You can use the following options to replace the previous settings"
+msgstr ""
+"Puede utilizar las siguientes opciones para reemplazar los ajustes anteriores"
+
+#: class-admin.php:99
+msgid " - leave blank for using the url from post"
+msgstr "- deje en blanco para usar el url de la entrada"
+
+#: class-admin.php:100
+msgid " - leave blank to display the current title"
+msgstr "- deje en blanco para mostrar el título actual"
+
+#: class-admin.php:102
+msgid "This is an example of using the short code:"
+msgstr "Esto es un ejemplo del uso del código corto:"
+
+#: class-admin.php:102
+msgid "Check this!"
+msgstr "¡Revisa esto!"
+
+#: class-admin.php:103
+msgid "You can also insert the code directly to your topic using PHP:"
+msgstr "También puede insertar el código directamente en tu tema usando PHP:"
+
+#: class-frontend.php:25 class-frontend.php:47
+msgid "WhatsApp Share for WordPress:"
+msgstr "WhatsApp Share para WordPress:"
+
+#: whatsapp-share.php:20
+msgid "Configuration"
+msgstr "Configuración"
+
+#. Plugin Name of the plugin/theme
+msgid "WSS Company WhatsApp Sharing Button"
+msgstr "WSS Company Botón de Compartir de WhatsApp"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.wsscompany.com.ve/descargas/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add button of WhatsApp on your post and more, also it includes a \"shortcode"
+"\"."
+msgstr ""
+"Agrega botón de WhatsApp en tus entradas y mas, también incluye un "
+"\"shortcode\""
+
+#. Author of the plugin/theme
+msgid "WSS Company, C.A."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.wsscompany.com.ve"
+msgstr ""

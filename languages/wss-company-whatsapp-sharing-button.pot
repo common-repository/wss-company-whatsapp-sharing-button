@@ -1,0 +1,132 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WSS Company WhatsApp Sharing Button\n"
+"POT-Creation-Date: 2016-01-06 17:42-0430\n"
+"PO-Revision-Date: 2016-01-06 17:42-0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: whatsapp-share.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-admin.php:60
+msgid "Post"
+msgstr ""
+
+#: class-admin.php:61
+msgid "This is included in all post, custom post and attachments."
+msgstr ""
+
+#: class-admin.php:63
+msgid "Pages"
+msgstr ""
+
+#: class-admin.php:66
+msgid "Homepage"
+msgstr ""
+
+#: class-admin.php:69
+msgid "Top content"
+msgstr ""
+
+#: class-admin.php:72
+msgid "Bottom content"
+msgstr ""
+
+#: class-admin.php:75
+msgid "Button text"
+msgstr ""
+
+#: class-admin.php:78
+msgid "Button color"
+msgstr ""
+
+#: class-admin.php:82
+msgid "Add tracking"
+msgstr ""
+
+#: class-admin.php:83
+msgid ""
+"Activate this to add UTM data on shared URL. It does not look nice, but "
+"helps you follow the visits in Google Analytics from WhatsApp. Source: "
+"WhatsApp. Medium: Messenger."
+msgstr ""
+
+#: class-admin.php:88
+msgid "Save Changes"
+msgstr ""
+
+#: class-admin.php:93
+msgid "Using the \"shortcode\""
+msgstr ""
+
+#: class-admin.php:96
+msgid ""
+"You can insert the button manually anywhere on your site using the "
+"\"shortcode\""
+msgstr ""
+
+#: class-admin.php:97
+msgid "You can use the following options to replace the previous settings"
+msgstr ""
+
+#: class-admin.php:99
+msgid " - leave blank for using the url from post"
+msgstr ""
+
+#: class-admin.php:100
+msgid " - leave blank to display the current title"
+msgstr ""
+
+#: class-admin.php:102
+msgid "This is an example of using the short code:"
+msgstr ""
+
+#: class-admin.php:102
+msgid "Check this!"
+msgstr ""
+
+#: class-admin.php:103
+msgid "You can also insert the code directly to your topic using PHP:"
+msgstr ""
+
+#: class-frontend.php:25 class-frontend.php:47
+msgid "WhatsApp Share for WordPress:"
+msgstr ""
+
+#: whatsapp-share.php:20
+msgid "Configuration"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WSS Company WhatsApp Sharing Button"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.wsscompany.com.ve/descargas/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add button of WhatsApp on your post and more, also it includes a \"shortcode"
+"\"."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WSS Company, C.A."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.wsscompany.com.ve"
+msgstr ""
